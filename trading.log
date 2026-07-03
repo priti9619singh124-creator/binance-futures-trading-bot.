@@ -1,0 +1,4 @@
+2026-07-03 20:05:00,336 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-07-03 20:05:01,133 - ERROR - Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-07-03 20:05:14,624 - INFO - Placing order: BTCUSDT SELL LIMIT
+2026-07-03 20:05:15,073 - ERROR - Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
